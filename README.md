@@ -1,2 +1,13 @@
 # CODESOFT
-Innovative Frontend Developer | WordPress Specialist | Crafting Engaging Digital Experiences with HTML5, CSS3, JS and UI/UX DESIGN.
+CODSOFT Web Development Internship 🚀
+Projects from my Web Development Internship at CODSOFT, covering HTML, CSS, JavaScript, React, and Node.js. Focused on responsive design and dynamic web applications.
+
+
+
+
+
+
+
+
+
+
